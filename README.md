@@ -1,8 +1,8 @@
- #  EX:1 EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
+ #  EX: 1 EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
  
  ## DATE:
  ## NAME :MONISH N
- ## REGISTER NUMBER :212223240097
+ ## REGISTER NUMBER: 212223240097
 
 # Aim:
 To implement and verify the functioning of basic logic gates (AND, OR, NOT, NAND, NOR, XOR) using a PLC ladder program and simulate the outputs.
